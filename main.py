@@ -9,8 +9,8 @@ import json
 
 app = Flask(__name__)
 
-com_garena_msdk_uid = "3197059560"
-com_garena_msdk_password = "3EC146CD4EEF7A640F2967B06D7F4413BD4FB37382E0ED260E214E8BACD96734"
+com_garena_msdk_uid = "3681702102"
+com_garena_msdk_password = "12A6C9AA54C0A8C23F5A4D88276E85F75F15EDC43F2E2AE38609CB99081E01DD"
 com_jwt_generate_url = "https://ariflexlabs-jwt-gen.onrender.com/fetch-token"
 
 def get_jwt():
